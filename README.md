@@ -17,4 +17,4 @@ The following mra files don't work as expected.
 * Indiana Jones (set 3).mra upside down corrupt or missing graphics, text is OK.
 
 ## Building  
-The project files are under folder `/MiSTer` and are setup for Quartus 17  
+The project files are setup for Quartus 17  
