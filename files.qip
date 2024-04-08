@@ -1,7 +1,5 @@
-set ::quartus(qip_path) "rtl/lib/jt51/hdl/"
-source [file join $::quartus(qip_path) jt51.qip]
-
 set_global_assignment -name SYSTEMVERILOG_FILE Arcade-atarisys1.sv
+set_global_assignment -name  QIP_FILE rtl/lib/jt51/hdl/jt51.qip
 set_global_assignment -name VHDL_FILE rtl/lib/quad.vhd
 set_global_assignment -name VHDL_FILE rtl/lib/LETA_REP.vhd
 set_global_assignment -name VHDL_FILE rtl/lib/m6522.vhd
