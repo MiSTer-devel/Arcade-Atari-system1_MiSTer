@@ -213,8 +213,8 @@ wire         direct_video;
 wire         ioctl_download;
 wire         ioctl_wr;
 wire         ioctl_wait;
-wire  [ 7:0] ioctl_index;
-wire  [24:0] ioctl_addr;
+wire [ 15:0] ioctl_index;
+wire [ 26:0] ioctl_addr;
 wire  [ 7:0] ioctl_dout;
 
 assign AUDIO_S = 1'b1; // signed samples
