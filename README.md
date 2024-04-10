@@ -11,7 +11,7 @@ System-1 supported game cartridges according to MAME
 * Indiana Jones and the Temple of Doom (1985)  
 * RoadBlasters (1987)  
 
-## Known Issues
+## Known Issues  
 The following mra files don't work as expected.
 * Indiana Jones (cocktail).mra graphics tiles incorrectly offset, directional controls not working.
 * Indiana Jones (set 3).mra upside down corrupt or missing graphics, text is OK.
