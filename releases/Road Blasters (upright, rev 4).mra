@@ -5,6 +5,7 @@
 	<mratimestamp>20230303000000</mratimestamp>
 	<year>1987</year>
 	<manufacturer>Atari Games</manufacturer>
+	<rotation>horizontal</rotation>
 	<category>Arcade</category>
 	<rbf>atarisys1</rbf>
 	<mameinfo parent="atarisy1" cpp="atarisy1" input="atarisy1"/>
